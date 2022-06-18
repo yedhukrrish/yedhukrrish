@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner]([./assets/GitHubHeader.png](https://pbs.twimg.com/profile_banners/897440132642381824/1653299454/1500x500))](https://yedhukrrish)
+[![Braydon's GitHub Banner]([./header.png](https://pbs.twimg.com/profile_banners/897440132642381824/1653299454/1500x500))](https://yedhukrrish)
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
