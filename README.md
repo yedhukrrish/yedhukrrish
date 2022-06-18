@@ -7,42 +7,30 @@
 
 Hey there 👋
 
-I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I'm Yedhu Krishnan
+I'm a designer & developer with a passion for UX design. I enjoy developing simple, clean and slick apps that provide real value to the end user. Over 2+ years, I’ve worked on a diverse set of projects, working from research to production, that include iOS, Android, web, SaaS, user research, data visualisation, and marketing design. In all projects, I seek to simplify the relationship between people and the interactive products they use, taking into consideration business goals and technological constraints. I am self-aware of the impact our solutions have on people's lives, and this is the reason why I always give my best to create a seamless and delightful experience.
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
+Want to know more about me? [Check out my portfolio.](https://yedhukrrish.github.io/portfolio/index.html)
 
-## 📝 Latest Blog Posts
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-<br>
 
 ## 📌 Pinned Repositories
 
 <br>
 
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/yedhukrrish/portfolio">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yedhukrrish&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/braydoncoyer/pomegradient">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/yedhukrrish/NM378_ZETTA-HERTZ">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yedhukrrish&repo=NM378_ZETTA-HERTZ&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/yedhukrrish/CHATBOT-AIML--PYTHON">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yedhukrrish&repo=CHATBOT-AIML--PYTHON&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -52,12 +40,12 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 <br>
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/yedhukrrish">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yedhukrrish&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+<a href="https://github.com/yedhukrrish">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=yedhukrrish&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Yedhu's GitHub Stats" />
 </a>
 
 <br>
@@ -122,18 +110,4 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 <br>
 
-## 📣 How about an Office quote before you go?
 
-> {office_quote}
->
-> <p>{office_character}</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
-
-<br>
-
-> ### Want to know how I made this README?
->
-> Check out my [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
